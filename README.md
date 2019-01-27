@@ -7,7 +7,8 @@ To Download and install Nodejs:
 * [Download the latest release on NodeJS](https://nodejs.org/en/download/)
 * Clone the repo: `https://github.com/sabashls/vrr.git`
 * Step 1 `npm install`
-* Step 3 `node server`
+* Step 2 `node server`
+* Step 3 (http://localhost:8080)
 
 
 
