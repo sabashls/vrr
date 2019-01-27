@@ -128,3 +128,7 @@ footer {
     width: 100% !important;
     height: 315px !important;
 }
+
+.dd-open{
+    background-color: #2a76bb !important;
+}
